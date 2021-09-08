@@ -1,24 +1,21 @@
 # cron-demo
 
-## Project setup
+## 项目启动安装依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 项目运行
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 项目构建
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### 修复错误的配置 
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
