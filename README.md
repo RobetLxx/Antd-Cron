@@ -2,7 +2,7 @@
 antd框架下cron表达式可视化组件
 
 # demo展示
-![](../../Downloads/iShot2021-09-08 17.gif)
+![iShot2021-09-08 17](https://user-images.githubusercontent.com/38268592/132485400-66700666-6232-4b87-8d0c-74e3edbf7af3.gif)
 
 # 使用方法
 1、复制components中的文件到自己的组件文件夹下；
